@@ -56,20 +56,20 @@ if __name__ == '__main__':
                         help='show n top level parents (default: shows all levels of parents)')
 
     args = parser.parse_args()
-    word = input().lower().encode('ascii')
+    term = input('Input term: ').lower().encode('ascii')
 
     numbers = {}
     terms = {}
 
     init_mesh()
-    if word not in terms:
-        print('There is no word \"' + word.decode('ascii') + '\"')
+    if term not in terms:
+        print('There is no term \"' + term.decode('ascii') + '\"')
     else:
-        parents = find_parents(terms[word], int(args.n_parents))
+        parents = find_parents(terms[term], int(args.n_parents))
         for i in range(len(parents) - 1, -1, -1):
             print('\nparents: ' + str(i + 1) + ' level\n\t' + '\n\t'.join(parents[i]))
 
-        for i, level_of_children in enumerate(find_children(terms[word], int(args.n_children)), 1):
+        for i, level_of_children in enumerate(find_children(terms[term], int(args.n_children)), 1):
             print('\nchildren ' + str(i) + ' level:\n\t' + '\n\t'.join(level_of_children))
 
-        print('\nnumbers:\n\t' + '\n\t'.join(terms[word]))
+        print('\nnumbers:\n\t' + '\n\t'.join(terms[term]))
