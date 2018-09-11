@@ -1,0 +1,849 @@
+MH = chromosomes, human, pair 1
+MN = A11.284.187.520.300.235.240
+MN = G05.360.162.520.300.235.240
+
+MH = macronucleus
+MN = A11.284.430.106.550
+MN = A11.284.430.214.190.875.117.550
+
+MH = basal bodies
+MN = A11.284.430.214.190.750.585.079
+
+MH = caveolae
+MN = A11.284.149.165.175.160
+MN = A11.284.149.165.570.160
+MN = A11.284.430.214.190.875.190.880.180.160
+
+MH = x chromosome
+MN = A11.284.187.865.982
+MN = G05.360.162.865.982
+
+MH = chromosomes, human, pair 17
+MN = A11.284.187.520.300.415.425
+MN = G05.360.162.520.300.415.425
+
+MH = spindle pole bodies
+MN = A11.284.430.214.190.750.585.580
+MN = A11.284.430.214.190.750.820.500.750
+
+MH = chromosomes, human, 16-18
+MN = A11.284.187.520.300.415
+MN = G05.360.162.520.300.415
+
+MH = chromosomes, artificial, human
+MN = A11.284.187.178.190.117
+MN = A11.284.187.520.190.117
+MN = A11.284.187.520.300.117
+MN = G05.360.162.178.190.117
+MN = G05.360.162.520.190.117
+MN = G05.360.162.520.300.117
+MN = G05.360.337.249.190.117
+
+MH = chromosomes, insect
+MN = A11.284.187.440
+MN = G05.360.162.440
+
+MH = spindle poles
+MN = A11.284.430.214.190.750.820.500
+
+MH = chromosomes, human, x
+MN = A11.284.187.520.300.325.680
+MN = A11.284.187.865.982.500
+MN = G05.360.162.520.300.325.680
+MN = G05.360.162.865.982.500
+
+MH = trans-golgi network
+MN = A11.284.430.214.190.875.336.850
+
+MH = adherens junctions
+MN = A11.284.149.165.420.020
+
+MH = chromosomes, plant
+MN = A11.284.187.560
+MN = A18.005
+MN = G05.360.162.560
+
+MH = micronucleus, germline
+MN = A11.284.430.106.575
+MN = A11.284.430.214.190.875.117.575
+
+MH = chromosomes, human, y
+MN = A11.284.187.520.300.505.757
+MN = A11.284.187.865.983.500
+MN = G05.360.162.520.300.505.757
+MN = G05.360.162.865.983.500
+
+MH = trichomes
+MN = A11.284.917
+MN = A18.024.750.825
+
+MH = mitochondrial ribosomes
+MN = A11.284.430.214.190.875.564.755
+MN = A11.284.430.214.190.875.811.370
+
+MH = tight junctions
+MN = A11.284.149.165.420.820
+
+MH = fimbriae, bacterial
+MN = A11.284.180.285
+MN = A20.843
+
+MH = coiled bodies
+MN = A11.284.430.106.279.345.195
+
+MH = apicoplasts
+MN = A11.284.430.214.190.875.700.069
+
+MH = myofibrils
+MN = A10.690.552.875
+MN = A11.284.430.214.190.750.620
+MN = A11.620.249.850
+MN = A11.620.500.500
+
+MH = membrane microdomains
+MN = A11.284.149.165.570
+
+MH = intracellular membranes
+MN = A11.284.149.450
+MN = A11.284.835.514
+
+MH = lipid droplets
+MN = A11.284.430.214.190.875.393
+
+MH = heinz bodies
+MN = A11.118.290.330.315.335
+MN = A11.284.420.204.335
+MN = A15.145.229.334.330.340.335
+
+MH = intracellular space
+MN = A10.082.750
+MN = A11.284.430
+
+MH = axons
+MN = A08.675.542.145
+MN = A11.284.180.075
+MN = A11.671.137
+MN = A11.671.501.145
+
+MH = plasmodesmata
+MN = A11.284.149.165.420.625
+
+MH = cell-free system
+MN = A11.284.835.168
+
+MH = stereocilia
+MN = A11.284.180.800
+
+MH = bacterial chromatophores
+MN = A11.284.430.214.190.875.080
+MN = A20.374
+
+MH = mitochondria, liver
+MN = A11.284.430.214.190.875.564.461
+MN = A11.284.835.626.461
+
+MH = neuroeffector junction
+MN = A08.800.550.550
+MN = A08.850.550
+MN = A11.284.149.165.420.780.550
+
+MH = chromosomes, human, 13-15
+MN = A11.284.187.520.300.370
+MN = G05.360.162.520.300.370
+
+MH = chromosome structures
+MN = A11.284.430.106.279.345.190.160
+MN = G05.360.160
+
+MH = sex chromosomes
+MN = A11.284.187.865
+MN = G05.360.162.865
+
+MH = cytoplasmic structures
+MN = A11.284.430.214.190
+
+MH = actin cytoskeleton
+MN = A11.284.430.214.190.750.050
+
+MH = microsomes
+MN = A11.284.835.540
+
+MH = erythrocyte membrane
+MN = A11.118.290.270
+MN = A11.284.149.356
+MN = A15.145.229.334.270
+
+MH = mitochondria, muscle
+MN = A11.284.430.214.190.875.564.627
+MN = A11.284.835.626.627
+
+MH = mitochondria, heart
+MN = A11.284.430.214.190.875.564.627.603
+MN = A11.284.835.626.627.603
+
+MH = extracellular matrix
+MN = A11.284.295.310
+
+MH = golgi apparatus
+MN = A11.284.430.214.190.875.336
+
+MH = chromosomes, human, pair 15
+MN = A11.284.187.520.300.370.385
+MN = G05.360.162.520.300.370.385
+
+MH = cytoplasmic granules
+MN = A11.284.430.214.190.500
+MN = A11.284.430.214.190.875.190.190
+
+MH = submitochondrial particles
+MN = A11.284.430.214.190.875.564.882
+MN = A11.284.835.626.882
+
+MH = gap junctions
+MN = A11.284.149.165.420.471
+
+MH = chromosomes, human, 21-22 and y
+MN = A11.284.187.520.300.505
+MN = G05.360.162.520.300.505
+
+MH = exosomes
+MN = A11.284.295.588.750
+MN = A11.284.430.214.190.875.190.880.495
+
+MH = sperm tail
+MN = A05.360.490.890.840
+MN = A11.284.180.290.835
+MN = A11.497.760.500
+
+MH = extracellular space
+MN = A10.082.500
+MN = A11.284.295
+
+MH = nuclear envelope
+MN = A11.284.149.165.630
+MN = A11.284.149.450.700
+MN = A11.284.430.106.279.692
+MN = A11.284.835.514.700
+
+MH = chromosomes, human, pair 8
+MN = A11.284.187.520.300.325.340
+MN = G05.360.162.520.300.325.340
+
+MH = axon initial segment
+MN = A08.675.542.145.250
+MN = A11.284.180.075.125
+MN = A11.671.137.170
+MN = A11.671.501.145.250
+
+MH = dendritic spines
+MN = A08.675.256.200
+MN = A11.284.180.225.169
+MN = A11.671.240.169
+
+MH = myelin sheath
+MN = A08.637.600.500
+MN = A08.637.800.500
+MN = A08.675.542.512.560
+MN = A08.800.800.690.500
+MN = A10.755.503
+MN = A11.284.149.165.600
+MN = A11.650.600.500
+MN = A11.650.800.500
+MN = A11.671.501.512.560
+MN = A11.671.514.553
+
+MH = cell wall
+MN = A11.284.183
+
+MH = desmosomes
+MN = A11.284.149.165.420.297
+
+MH = nuclear lamina
+MN = A11.284.149.165.630.500
+MN = A11.284.430.106.279.345.700.700
+MN = A11.284.430.106.279.692.314
+MN = A11.284.835.514.700.500
+
+MH = cellulosomes
+MN = A11.284.180.120
+
+MH = chromosomes, human, pair 2
+MN = A11.284.187.520.300.235.245
+MN = G05.360.162.520.300.235.245
+
+MH = cell nucleus
+MN = A11.284.430.106
+MN = A11.284.430.214.190.875.117
+
+MH = neuromuscular junction
+MN = A08.800.550.550.550
+MN = A08.850.550.550
+MN = A11.284.149.165.420.780.550.550
+
+MH = glyoxysomes
+MN = A11.284.430.214.190.500.585.250
+MN = A11.284.430.214.190.875.190.190.755.250
+
+MH = chromosomes, human, pair 5
+MN = A11.284.187.520.300.280.290
+MN = G05.360.162.520.300.280.290
+
+MH = dendrites
+MN = A08.675.256
+MN = A11.284.180.225
+MN = A11.671.240
+
+MH = chromosomes, human, 19-20
+MN = A11.284.187.520.300.460
+MN = G05.360.162.520.300.460
+
+MH = chromosomes, human, pair 9
+MN = A11.284.187.520.300.325.345
+MN = G05.360.162.520.300.325.345
+
+MH = spindle apparatus
+MN = A11.284.430.214.190.750.820
+
+MH = cilia
+MN = A11.284.180.165
+
+MH = glycocalyx
+MN = A11.284.149.165.355
+
+MH = polytene chromosomes
+MN = A11.284.187.440.500
+MN = A11.284.430.106.279.345.190.580
+MN = G05.360.162.440.500
+
+MH = centrosome
+MN = A11.284.430.214.190.750.585.160
+MN = A11.284.430.214.190.750.820.500.500
+
+MH = chromaffin granules
+MN = A06.224.161.500
+MN = A11.284.430.214.190.500.207
+MN = A11.284.430.214.190.875.190.190.207
+
+MH = nuclear matrix
+MN = A11.284.430.106.279.345.700
+
+MH = microbodies
+MN = A11.284.430.214.190.500.585
+MN = A11.284.430.214.190.875.190.190.755
+
+MH = vault ribonucleoprotein particles
+MN = A11.284.430.214.190.875.930
+MN = D12.776.157.725.500.937
+MN = D12.776.664.962.500.937
+
+MH = cytosol
+MN = A11.284.430.214.200
+MN = A11.284.430.429.200
+MN = A11.284.835.450.200
+
+MH = chromosomes, artificial, p1 bacteriophage
+MN = A11.284.187.178.195
+MN = G05.360.162.178.195
+MN = G05.360.337.249.195
+
+MH = chromosomes, artificial, bacterial
+MN = A11.284.187.178.170
+MN = A11.284.187.190.170
+MN = A20.812.170
+MN = G05.360.162.178.170
+MN = G05.360.162.190.170
+MN = G05.360.337.249.170
+
+MH = presynaptic terminals
+MN = A08.675.542.145.750
+MN = A08.850.700
+MN = A11.284.149.165.420.780.700
+MN = A11.671.137.750
+MN = A11.671.501.145.750
+
+MH = isochromosomes
+MN = A11.284.187.570
+MN = C23.550.210.430
+MN = G05.360.162.570
+MN = G05.365.590.175.430
+
+MH = gemini of coiled bodies
+MN = A11.284.430.106.279.345.447
+
+MH = synaptosomes
+MN = A11.284.835.859
+
+MH = chromosomes, human, pair 11
+MN = A11.284.187.520.300.325.355
+MN = G05.360.162.520.300.325.355
+
+MH = costameres
+MN = A11.284.149.165.165.142
+
+MH = intranuclear space
+MN = A11.284.430.106.279.345
+
+MH = micronuclei, chromosome-defective
+MN = A11.284.430.106.570
+MN = A11.284.430.214.190.875.117.570
+MN = C23.550.210.570
+MN = G05.365.590.175.570
+
+MH = chromosomes, artificial, mammalian
+MN = A11.284.187.178.190
+MN = A11.284.187.520.190
+MN = G05.360.162.178.190
+MN = G05.360.162.520.190
+MN = G05.360.337.249.190
+
+MH = chromosomes, human, pair 18
+MN = A11.284.187.520.300.415.430
+MN = G05.360.162.520.300.415.430
+
+MH = plastids
+MN = A11.284.430.214.190.875.700
+
+MH = intranuclear inclusion bodies
+MN = A11.284.420.400
+
+MH = cell membrane
+MN = A11.284.149
+
+MH = weibel-palade bodies
+MN = A11.284.430.214.190.500.950
+MN = A11.284.430.214.190.875.190.190.950
+
+MH = pseudopodia
+MN = A11.284.180.700
+
+MH = focal adhesions
+MN = A11.284.149.165.165.285
+
+MH = cell surface extensions
+MN = A11.284.180
+
+MH = cell membrane structures
+MN = A11.284.149.165
+
+MH = nuclear pore
+MN = A11.284.430.106.279.692.630
+
+MH = chromosomes, human, pair 3
+MN = A11.284.187.520.300.235.250
+MN = G05.360.162.520.300.235.250
+
+MH = synapses
+MN = A08.850
+MN = A11.284.149.165.420.780
+
+MH = phycobilisomes
+MN = A11.284.149.165.695
+MN = D05.500.562.488.490.500
+MN = D08.811.600.710.490.500
+
+MH = inclusion bodies, viral
+MN = A11.284.420.390
+MN = G06.920.400
+
+MH = cytoskeleton
+MN = A11.284.430.214.190.750
+
+MH = sarcomeres
+MN = A10.690.552.875.700
+MN = A11.284.430.214.190.875.820
+MN = A11.620.249.850.700
+MN = A11.620.500.500.700
+
+MH = neurofibrillary tangles
+MN = A08.675.609.520
+MN = A11.284.430.214.190.750.640.520
+MN = A11.671.573.520
+
+MH = melanosomes
+MN = A11.284.430.214.190.500.560
+MN = A11.284.430.214.190.875.190.190.560
+MN = A11.436.265.531.560
+MN = A11.436.613.560
+
+MH = chromosomes, fungal
+MN = A11.284.187.360
+MN = A19.311
+MN = G05.360.162.360
+
+MH = chromosomes, human, pair 20
+MN = A11.284.187.520.300.460.470
+MN = G05.360.162.520.300.460.470
+
+MH = phagosomes
+MN = A11.284.430.214.190.875.190.700
+
+MH = nissl bodies
+MN = A08.675.712
+MN = A11.284.430.214.190.500.610
+MN = A11.284.430.214.190.875.248.300.610
+MN = A11.284.430.214.190.875.811.740.300.610
+MN = A11.671.693
+
+MH = ribosomes
+MN = A11.284.430.214.190.875.811
+
+MH = chromosomes, human, pair 6
+MN = A11.284.187.520.300.325.330
+MN = G05.360.162.520.300.325.330
+
+MH = organelles
+MN = A11.284.430.214.190.875
+
+MH = ribosome subunits
+MN = A11.284.430.214.190.875.811.870
+
+MH = cell nucleus structures
+MN = A11.284.430.106.279
+
+MH = chromosomes, human, pair 13
+MN = A11.284.187.520.300.370.375
+MN = G05.360.162.520.300.370.375
+
+MH = chromosomes, human, pair 16
+MN = A11.284.187.520.300.415.420
+MN = G05.360.162.520.300.415.420
+
+MH = cell nucleolus
+MN = A11.284.430.106.279.345.175
+
+MH = neurofibrils
+MN = A08.675.609
+MN = A11.284.430.214.190.750.640
+MN = A11.671.573
+
+MH = periplasm
+MN = A11.284.295.680
+
+MH = chromosomes, human, 1-3
+MN = A11.284.187.520.300.235
+MN = G05.360.162.520.300.235
+
+MH = sarcolemma
+MN = A11.284.149.707
+
+MH = synaptic membranes
+MN = A08.850.800
+MN = A11.284.149.165.420.780.800
+MN = A11.284.149.844
+
+MH = cell wall skeleton
+MN = A11.284.183.200
+MN = D12.776.097.162
+MN = D12.776.395.560.186
+
+MH = cell-derived microparticles
+MN = A11.284.295.588.500
+
+MH = microsomes, liver
+MN = A11.284.835.540.541
+
+MH = chromosomes, human, pair 21
+MN = A11.284.187.520.300.505.510
+MN = G05.360.162.520.300.505.510
+
+MH = immunological synapses
+MN = A11.284.149.165.420.548
+MN = A15.382.370
+
+MH = chromosomes, human, pair 12
+MN = A11.284.187.520.300.325.360
+MN = G05.360.162.520.300.325.360
+
+MH = chromosomes, human, pair 19
+MN = A11.284.187.520.300.460.465
+MN = G05.360.162.520.300.460.465
+
+MH = mitochondrial membranes
+MN = A11.284.149.450.349
+MN = A11.284.835.514.349
+
+MH = zona pellucida
+MN = A05.360.490.690.950
+MN = A11.284.295.310.990
+MN = A11.497.497.900
+MN = A16.690.900
+
+MH = extracellular traps
+MN = A11.284.295.495
+
+MH = chromosomes, archaeal
+MN = A11.284.187.167
+MN = G05.360.162.167
+
+MH = transport vesicles
+MN = A11.284.430.214.190.875.190.880
+
+MH = mitochondria
+MN = A11.284.430.214.190.875.564
+MN = A11.284.835.626
+
+MH = philadelphia chromosome
+MN = A11.284.187.520.300.325.345.500
+MN = A11.284.187.520.300.505.515.500
+MN = C23.550.210.870.680
+MN = G05.360.162.520.300.325.345.700
+MN = G05.360.162.520.300.505.515.700
+MN = G05.365.590.175.870.680
+
+MH = purple membrane
+MN = A11.284.149.648
+MN = A20.871
+
+MH = inclusion bodies
+MN = A11.284.420
+
+MH = subcellular fractions
+MN = A11.284.835
+
+MH = endoplasmic reticulum, rough
+MN = A11.284.430.214.190.875.248.300
+MN = A11.284.430.214.190.875.811.740.300
+
+MH = chromosomes, human, pair 7
+MN = A11.284.187.520.300.325.335
+MN = G05.360.162.520.300.325.335
+
+MH = glomerular basement membrane
+MN = A05.810.453.324.359.372.400
+MN = A05.810.453.736.520.224
+MN = A10.615.179.625
+MN = A11.284.295.310.279
+
+MH = extracellular vesicles
+MN = A11.284.295.588
+
+MH = stress fibers
+MN = A11.284.430.214.190.750.050.830
+
+MH = chromosomes, human, 4-5
+MN = A11.284.187.520.300.280
+MN = G05.360.162.520.300.280
+
+MH = flagella
+MN = A11.284.180.290
+
+MH = chromosomes, human, 6-12 and x
+MN = A11.284.187.520.300.325
+MN = G05.360.162.520.300.325
+
+MH = podosomes
+MN = A11.284.180.695
+MN = A11.436.275.841
+
+MH = vacuoles
+MN = A11.284.430.214.190.875.190.920
+
+MH = axoneme
+MN = A11.284.430.214.190.750.602.309
+
+MH = chromosomes, human, pair 4
+MN = A11.284.187.520.300.280.285
+MN = G05.360.162.520.300.280.285
+
+MH = peroxisomes
+MN = A11.284.430.214.190.500.585.600
+MN = A11.284.430.214.190.875.190.190.755.600
+
+MH = endoplasmic reticulum, smooth
+MN = A11.284.430.214.190.875.248.310
+
+MH = microtubules
+MN = A11.284.430.214.190.750.602
+
+MH = endoplasmic reticulum
+MN = A11.284.430.214.190.875.248
+
+MH = magnetosomes
+MN = A11.284.430.214.190.875.450
+MN = A20.859
+
+MH = telopodes
+MN = A11.284.180.900
+MN = A11.329.830.750.500
+
+MH = lysosomes
+MN = A11.284.430.214.190.875.190.550
+
+MH = coated pits, cell-membrane
+MN = A11.284.149.165.175
+
+MH = intermediate filaments
+MN = A11.284.430.214.190.750.410
+
+MH = intercellular junctions
+MN = A11.284.149.165.420
+
+MH = neurites
+MN = A08.675.256.500
+MN = A08.675.542.145.500
+MN = A11.284.180.610
+MN = A11.671.501.145.500
+MN = A11.671.543
+
+MH = chromosomes, human, pair 22
+MN = A11.284.187.520.300.505.515
+MN = G05.360.162.520.300.505.515
+
+MH = pili, sex
+MN = A11.284.180.690
+MN = A20.867
+
+MH = cytoplasmic vesicles
+MN = A11.284.430.214.190.875.190
+
+MH = growth cones
+MN = A11.284.180.075.249
+MN = A11.284.180.225.340
+MN = A11.284.180.610.345
+MN = A11.671.137.340
+MN = A11.671.240.340
+
+MH = erythrocyte inclusions
+MN = A11.118.290.330.315
+MN = A11.284.420.204
+MN = A15.145.229.334.330.340
+
+MH = chromosomes, artificial, yeast
+MN = A11.284.187.178.200
+MN = A11.284.187.360.800
+MN = A19.311.800
+MN = G05.360.162.178.200
+MN = G05.360.162.360.800
+MN = G05.360.337.249.200
+
+MH = hemidesmosomes
+MN = A11.284.149.165.165.360
+
+MH = chromosomes, human, pair 14
+MN = A11.284.187.520.300.370.380
+MN = G05.360.162.520.300.370.380
+
+MH = microtubule-organizing center
+MN = A11.284.430.214.190.750.585
+
+MH = cytoplasm
+MN = A11.284.430.214
+
+MH = filamins
+MN = A11.284.430.214.190.750.050.414
+MN = D05.750.078.730.315
+MN = D12.776.210.249
+MN = D12.776.220.525.315
+
+MH = pseudoautosomal regions
+MN = A11.284.187.865.400
+MN = G05.360.162.865.400
+MN = G05.360.340.024.380.906
+
+MH = chromosomes
+MN = A11.284.187
+MN = A11.284.430.106.279.345.190
+MN = G05.360.162
+
+MH = electrical synapses
+MN = A08.850.180
+MN = A11.284.149.165.420.471.180
+MN = A11.284.149.165.420.780.180
+
+MH = sex chromatin
+MN = A11.284.187.865.800
+MN = A11.284.430.106.279.345.190.160.180.383.800
+MN = G05.360.160.180.383.800
+MN = G05.360.162.865.800
+
+MH = y chromosome
+MN = A11.284.187.865.983
+MN = G05.360.162.865.983
+
+MH = chromosomes, human
+MN = A11.284.187.520.300
+MN = G05.360.162.520.300
+
+MH = chromosomes, bacterial
+MN = A11.284.187.190
+MN = A20.812
+MN = G05.360.162.190
+
+MH = cell-matrix junctions
+MN = A11.284.149.165.165
+
+MH = ranvier's nodes
+MN = A08.637.800.500.700
+MN = A08.675.542.512.560.700
+MN = A08.800.800.690.500.700
+MN = A10.755.503.700
+MN = A11.284.149.165.760
+MN = A11.650.800.500.700
+MN = A11.671.501.512.560.700
+MN = A11.671.514.553.640
+
+MH = mallory bodies
+MN = A11.284.420.500
+
+MH = post-synaptic density
+MN = A08.850.800.500
+MN = A11.284.149.165.420.780.800.500
+
+MH = spliceosomes
+MN = A11.284.430.106.279.345.850
+
+MH = extracellular fluid
+MN = A11.284.295.260
+MN = A12.207.270
+
+MH = chromosomes, artificial
+MN = A11.284.187.178
+MN = G05.360.162.178
+MN = G05.360.337.249
+
+MH = polyribosomes
+MN = A11.284.430.214.190.875.811.740
+
+MH = neuropil threads
+MN = A08.637.500.550
+MN = A08.675.703.550
+MN = A11.284.430.214.190.750.602.620
+MN = A11.650.500.550
+MN = A11.671.685.550
+
+MH = chloroplasts
+MN = A11.284.430.214.190.875.700.140
+
+MH = microfibrils
+MN = A11.284.295.310.560
+
+MH = chromosomes, mammalian
+MN = A11.284.187.520
+MN = G05.360.162.520
+
+MH = cell body
+MN = A11.284.074
+
+MH = microvilli
+MN = A11.284.180.565
+
+MH = ring chromosomes
+MN = A11.284.187.788
+MN = C23.550.210.760
+MN = G05.360.162.788
+MN = G05.365.590.175.760
+
+MH = intracellular fluid
+MN = A11.284.430.429
+MN = A11.284.835.450
+MN = A12.207.515
+
+MH = lewy bodies
+MN = A08.675.460
+MN = A11.284.420.460
+MN = A11.671.460
+
+MH = chromosomes, human, pair 10
+MN = A11.284.187.520.300.325.350
+MN = G05.360.162.520.300.325.350
+
