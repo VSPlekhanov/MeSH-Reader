@@ -1,6 +1,7 @@
 #!/usr/bin/python3.5
 import re
 from argparse import ArgumentParser
+import json
 
 numbers_to_terms = {}
 terms_to_numbers = {}
@@ -27,11 +28,6 @@ def find_children(ids, n):
     res = []
     for i in range(1, n + 1):
         string_pattern = '(\.\d+){' + str(i) + '}'
-        # children_set = set()
-        #
-        # for key, child in numbers.items():
-        #     for curr_id in ids:
-
         res += [{child for curr_id in ids for key, child in numbers_to_terms.items() if
                  len(key) == len(curr_id) + 4 * i and
                  re.compile(re.escape(curr_id) + string_pattern).fullmatch(key)}]
@@ -50,7 +46,7 @@ def init_mesh():
     for line in mesh:
         mesh_term = re.search(b'MH = (.+)$', line)
         mesh_number = re.search(b'MN = (.+)$', line)
-        mesh_entry = re.search(b'ENTRY = ([^|]+)(.+)$', line)
+        mesh_entry = re.search(b'ENTRY = ([^|]+)(.*)$', line)
         if mesh_term:
             term = mesh_term.group(1).decode('ascii').lower()
         if mesh_number:
@@ -63,7 +59,7 @@ def init_mesh():
         if mesh_entry:
             try:
                 entry = mesh_entry.group(1)
-                entry = entry.decode('ascii').lower()
+                entry = entry.decode('ascii').strip().lower().replace(',', '')
             except UnicodeDecodeError:
                 non_latin_entries += [entry]
                 continue
@@ -74,10 +70,25 @@ def init_mesh():
                 terms_to_entries[term] = [entry]
 
 
+def tmp():
+    tmp_dict = {}
+    with open('dict.json', 'a') as d:
+        for key, value in terms_to_entries.items():
+            tmp_dict['key'] = "key: " + key
+            tmp_dict['value'] = ["value: "] + value
+            d.write(json.dumps(tmp_dict) + '\n')
+
+
 def main(term):
+    if term == 'exit()':
+        exit(0)
     if term not in terms_to_numbers:
-        print('There is no term \"' + term.decode('ascii') + '\"')
+        if term in entries_to_terms:
+            main(entries_to_terms[term])
+        else:
+            print('There is no term \"' + term + '\"')
     else:
+        print('\t\t\t\t' + term)
         parents = find_parents(terms_to_numbers[term], int(args.n_parents))
         for i in range(len(parents) - 1, -1, -1):
             print('\nparents: ' + str(i + 1) + ' level\n\t' + '\n\t'.join(parents[i]))
@@ -88,6 +99,12 @@ def main(term):
         if term in terms_to_entries:
             print('\nentries:\n\t' + '\n\t'.join(terms_to_entries[term]))
         print('\nnumbers:\n\t' + '\n\t'.join(terms_to_numbers[term]))
+        # tmp()
+        with open('entries_map.json', 'w') as out:
+            out.write(json.dumps(entries_to_terms))
+        with open('entries_map_reversed.json', 'w') as r_out:
+            r_out.write(json.dumps(terms_to_entries))
+        print(len(entries_to_terms))
 
 
 if __name__ == '__main__':
@@ -99,4 +116,5 @@ if __name__ == '__main__':
     args = parser.parse_args()
 
     init_mesh()
-    main(input('Input term: ').lower())
+    while True:
+        main(input('\nInput term: \t\t\t\t\t\t\t\t (type exit() to close program)\n\t').lower())
