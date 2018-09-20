@@ -74,8 +74,8 @@ def tmp():
     tmp_dict = {}
     with open('dict.json', 'a') as d:
         for key, value in terms_to_entries.items():
-            tmp_dict['key'] = "key: " + key
-            tmp_dict['value'] = ["value: "] + value
+            tmp_dict['key'] = 'key: ' + key
+            tmp_dict['value'] = ['value: ' + val for val in value]
             d.write(json.dumps(tmp_dict) + '\n')
 
 
@@ -99,12 +99,10 @@ def main(term):
         if term in terms_to_entries:
             print('\nentries:\n\t' + '\n\t'.join(terms_to_entries[term]))
         print('\nnumbers:\n\t' + '\n\t'.join(terms_to_numbers[term]))
-        # tmp()
         with open('entries_map.json', 'w') as out:
             out.write(json.dumps(entries_to_terms))
         with open('entries_map_reversed.json', 'w') as r_out:
             r_out.write(json.dumps(terms_to_entries))
-        print(len(entries_to_terms))
 
 
 if __name__ == '__main__':
@@ -114,7 +112,7 @@ if __name__ == '__main__':
     parser.add_argument('-np', '--n-parents', dest='n_parents', default=100,
                         help='show n top level parents (default: shows all levels of parents)')
     args = parser.parse_args()
-
     init_mesh()
+    # tmp()
     while True:
         main(input('\nInput term: \t\t\t\t\t\t\t\t (type exit() to close program)\n\t').lower())
