@@ -1,4 +1,4 @@
-#!/usr/bin/python3.5
+#!/usr/bin/python3.6
 import re
 from argparse import ArgumentParser
 import json
